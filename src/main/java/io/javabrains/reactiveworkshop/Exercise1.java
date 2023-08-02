@@ -25,6 +25,8 @@ public class Exercise1 {
         // Print first names in userStream for users that have IDs from number stream
         // TODO: Write code here
 
+        System.out.println("Hello world");
+
     }
 
 }
